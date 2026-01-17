@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Luciano Siva! 
 
-👤 
+ 
 
 Profissional com cerca de 5 anos de experiência em **Microsoft SQL Server**, atuando na **administração de bancos de dados**, com foco em **disponibilidade**, **desempenho** e **confiabilidade dos ambientes**.
 
