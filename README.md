@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Luciano Silva! 
 
-<!--
-**luciano-dba-sqlserver/luciano-dba-sqlserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuação como **DBA SQL Server** em ambientes corporativos, com experiência nas seguintes áreas:
 
-Here are some ideas to get you started:
+• **Administração** de Banco de Dados
+• **Segurança** e controle de acessos
+• **Performance** e otimização de consultas
+• Rotinas operacionais e manutenção
+• Suporte a ambientes on-premises e Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em evoluir em áreas como análise de dados, automação com **Python** e aplicação de dados para apoiar decisões estratégicas, aprendendo continuamente e aplicando conhecimentos em projetos reais.
+
+**Sou movido por aprendizado constante, colaboração com times e desenvolvimento de soluções que facilitem processos e tragam valor ao negócio**.
+
+---
